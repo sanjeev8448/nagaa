@@ -1,0 +1,1 @@
+"""Q25 Find square submatrix of size N from given square matrix of size M whose sum of elements is maximum."""
